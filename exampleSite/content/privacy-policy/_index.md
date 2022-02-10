@@ -1,6 +1,8 @@
 ---
 title: Terms of Use
-description: this is meta description
+description: Your access and use of this website is governed by these Terms of Use
+  and the IAG Master Privacy Policy. By accessing and using this website you acknowledge
+  and accept that you are bound by these Terms of Use and the IAG Master Privacy Policy.
 
 ---
 Your access and use of this website constitute your agreement to these Terms of Use.

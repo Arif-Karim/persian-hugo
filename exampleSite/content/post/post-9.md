@@ -1,5 +1,5 @@
 ---
-title: How I to Double-check my Variable Types
+title: How I Learnt to Double-check my Variable Types
 date: 2022-01-28T05:14:34.000+00:00
 image: "/images/matt.png"
 author: Matt Eden

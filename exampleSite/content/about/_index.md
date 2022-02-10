@@ -1,38 +1,15 @@
 ---
-title: "I'm a Freelance Interactive Art Director Based In France. Focusing Accross Branding And Identity"
-image: "images/author.jpg"
-description: "This is meta description."
-draft: false
+title: 'About Us '
+image: images/iag-logo.png
+description: One of our strategic pillars is to be digital to the core by modernising
+  our policy administration systems. We have a separate division for technology were
+  we build amazing things and solve complex problems.
+
 ---
+Insurance Australia Group Limited (IAG) is the largest general insurance company in Australia and New Zealand. Our business sell insurance under many leading brands, including: NRMA Insurance, CGU,SGIO, SGIC, Swann Insurance, WFI and Poncho Insurance (Australia); and NZI, State, AMI and Lumley (New Zealand).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi, posuere ultrices tempus. Feugiat consequat suspendisse laoreet vitae enim adipiscing cursus. Duis nunc vitae tincidunt sed nibh id. Egestas erat consequat, ornare etiam donec faucibus. Lorem ut enim nunc, senectus adipiscing sed. Lobortis commodo aliquet pulvinar molestie faucibus diam. Semper porttitor justo, et dictum.
+##   
+**Technology@IAG**
 
-<br>
-<br>
-
-## My Education
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
-
-<br>
-<br>
-
-## My Hobbies
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-* Et ipsum euismod et aenean duis.
-* Mate ipsum euismod nulla et diam.
-* Rio euismod nulla et aenean diam konta.
-
-<br>
-<br>
-
-## My Experiences
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Condimentum in urna justo elit turpis risus vitae viverra enim. Augue quis vitae in non nisi Massa cras odio ante cursus.
-
-1. Et ipsum euismod et aenean duis.
-2. Mate ipsum euismod nulla et diam.
-3. Rio euismod nulla et aenean diam konta.
+  
+One of our strategic pillars is to be digital to the core by modernising our policy administration systems. We have a separate division for technology were we build amazing things and solve complex problems.

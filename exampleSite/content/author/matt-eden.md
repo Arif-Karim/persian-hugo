@@ -1,6 +1,6 @@
 +++
 draft = true
-email = ""
+email = "matt.eden@iag.com.au"
 image = ""
 social = []
 title = "Matt Eden"
